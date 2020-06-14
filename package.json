@@ -1,0 +1,27 @@
+{
+  "name": "project-cappuccino",
+  "version": "1.0.0",
+  "description": "experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" :"webpack "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endurance21/project-cappuccino.git"
+  },
+  "author": "divyanshu raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endurance21/project-cappuccino/issues"
+  },
+  "homepage": "https://github.com/endurance21/project-cappuccino#readme",
+  "dependencies": {
+    "tone": "^13.8.25",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
